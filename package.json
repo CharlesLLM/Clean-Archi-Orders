@@ -1,4 +1,9 @@
 {
   "private": true,
-  "type": "module"
+  "type": "module",
+  "workspaces": [
+    "domain",
+    "application",
+    "library"
+  ]
 }
